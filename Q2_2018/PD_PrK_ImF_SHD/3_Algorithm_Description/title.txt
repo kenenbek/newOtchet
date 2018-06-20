@@ -1,0 +1,66 @@
+\newpage
+\begin{small}
+\begin{tabular}{c c c}
+СОГЛАСОВАНО & \qquad\qquad\qquad\qquad\ & УТВЕРЖДАЮ \\
+Проректор по научной работе & \qquad\qquad\qquad\qquad\ & Первый проректор \\
+ФГАОУ ВО "СПбПУ" & \qquad\qquad\qquad\qquad\ & ФГАОУ ВО "НИУ ВШЭ" \\
+\verb|________________| В.В. Сергеев & \qquad\qquad\qquad\qquad\ & \verb|________________| Л.М. Гохберг \\
+"\verb|_____|"\verb|________________| 2018 & \qquad\qquad\qquad\qquad\ & "\verb|_____|"\verb|________________| 2018 \\
+\end{tabular}
+\\
+\qquad
+\\
+\begin{center}
+ОПИСАНИЕ АЛГОРИТМА\\
+ПрК ИмФ СХД\\
+\qquad\\
+\qquad\\
+\qquad\\
+XXXX.XXXXX.XXX-ЛУ
+ЛИСТ УТВЕРЖДЕНИЯ
+\end{center}
+\qquad
+\\
+\begin{tabular}{c c} 
+\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\ & Руководитель разработки\\
+\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\ & \verb|________________| X.X. XXXXXXXX\\
+\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\ & "\verb|_____|"\verb|________________| 2018\\
+\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\ & \qquad\\
+\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\ & Ответственный исполнитель\\
+\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\ & \verb|________________| X.X. XXXXXXXX\\
+\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\ & "\verb|_____|"\verb|________________| 2018\\
+\end{tabular}
+\\
+\qquad
+\\
+\begin{center}
+Москва, 2018
+\end{center}
+\end{small}
+\newpage
+\begin{center}
+ФГАОУ ВО "НИУ ВШЭ"
+\end{center}
+\begin{tabular}{c}
+УТВЕРЖДЕНО\\
+XXXX.XXXXX.XXX-ЛУ\\
+\end{tabular}
+\\
+\qquad
+\\
+\begin{center}
+ОПИСАНИЕ АЛГОРИТМА\\
+ПрК ИмФ СХД\\
+\qquad\\
+\qquad\\
+\qquad\\
+XXXX.XXXXX.XXX\\
+ЛИСТОВ YY\\
+\end{center}
+\qquad
+\\
+\qquad
+\\
+\qquad
+\\
+\newpage

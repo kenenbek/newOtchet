@@ -1,0 +1,60 @@
+%\documentclass[a4paper]{article}
+
+%% Преамбула TeX-файла
+
+% 1. Стиль и язык
+% for reference see https://ru.sharelatex.com/project/5b152067a6c9730cdba16941
+\documentclass[utf8x]{G7-32} % Стиль (по умолчанию будет 14pt)
+
+\usepackage[T2A]{fontenc}        
+%\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{graphicx}
+\graphicspath{{img/}{../img/}}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{amsmath}
+\usepackage{pdfpages}
+\usepackage{import}
+\usepackage{csquotes}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{ltablex}
+\usepackage{listings}
+\usepackage{svg}
+\usepackage{float}
+\usepackage{totcount}
+\usepackage{seqsplit}
+\usepackage{verbatim}
+\usepackage[]{algorithm2e}
+\def\labelitemi{--}
+\numberwithin{equation}{subsection}
+
+\newcommand{\spheading}[2][10em]{% \spheading[<width>]{<stuff>}
+  \rotatebox{90}{\parbox{#1}{\raggedright #2}}}
+
+\renewcommand{\thesection}{\arabic{section}}
+
+% Настройки листингов.
+\include{listings.inc}
+
+% Полезные макросы листингов.
+\include{macros.inc}
+
+\title{Отчёт}
+
+\author{ВШЭ}
+
+\begin{document}
+%\maketitle
+\newpage
+
+%\tableofcontents
+\newpage
+
+\input{Q2_2018/PD_PrK_ImF_SHD/3_Algorithm_Description/main.txt}
+
+\input{./Kenenbek/Algorithm_description.tex}
+
+\input{Q2_2018/ListRegChanges.txt}
+\end{document}
+

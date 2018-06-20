@@ -1,0 +1,168 @@
+{
+  "timestamp": "",
+  "ambience": {
+    "air_temp": 72,
+    "humidity": 72,
+    "atm_pressure": 90,
+    "vibration": 32
+  },
+  "storage_components": [
+    {
+      "type": "controller",
+      "id": "Anomaly",
+      "name": "Anomaly",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 0,
+        "load": 0
+      }
+    },
+    {
+      "type": "controller",
+      "id": "SSD",
+      "name": "SSD",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 0,
+        "load": 0
+      }
+    },
+    {
+      "type": "controller",
+      "id": "JBOD1",
+      "name": "JBOD1",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 0,
+        "load": 0
+      }
+    },
+    {
+      "type": "network_switch",
+      "id": "NetworkSwitch",
+      "name": "NetworkSwitch",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "connected_dev_cnt": 3,
+        "online_switches_cnt": 2
+      }
+    },
+    {
+      "type": "pci-fabric",
+      "id": "FabricManager",
+      "name": "FabricManager",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "pcie_devices_cnt": 56,
+        "pcie_max_bandw": 3
+      }
+    },
+    {
+      "type": "controller",
+      "id": "Server1",
+      "name": "Server1",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 29.749000000000425,
+        "load": 0
+      }
+    },
+    {
+      "type": "controller",
+      "id": "Server2",
+      "name": "Server2",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 18.211999999999993,
+        "load": 0
+      }
+    },
+    {
+      "type": "controller",
+      "id": "Server3",
+      "name": "Server3",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 9.833000000000007,
+        "load": 0
+      }
+    },
+    {
+      "type": "controller",
+      "id": "Server4",
+      "name": "Server4",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 21.447000000000116,
+        "load": 0
+      }
+    },
+    {
+      "type": "controller",
+      "id": "JBOD2",
+      "name": "JBOD2",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 0,
+        "load": 0
+      }
+    },
+    {
+      "type": "io-balancer",
+      "id": "LoadBalancer",
+      "name": "LoadBalancer",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "read_requests_rate": -0,
+        "write_requests_rate": -0,
+        "read_response_delay": 0,
+        "write_response_delay": 1.9565000000000003,
+        "read_data_volume": 0.1,
+        "write_data_volume": 0.2,
+        "read_request_process_time": 20,
+        "write_request_process_time": 25,
+        "io_processing_method": 0,
+        "read_cancel_rate": 200,
+        "write_cancel_rate": 300,
+        "block_size": 64,
+        "io_process_cnt": 8,
+        "read_queue_length": 32,
+        "write_queue_length": 64
+      }
+    },
+    {
+      "type": "controller",
+      "id": "Client",
+      "name": "Client",
+      "props": {
+        "status": 0,
+        "dev_temp": 22,
+        "uptime": 0.1,
+        "traffic": 39.78299999999998,
+        "load": 0
+      }
+    }
+  ]
+}

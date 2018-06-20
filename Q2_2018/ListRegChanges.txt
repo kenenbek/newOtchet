@@ -1,0 +1,24 @@
+\newpage
+\section*{ЛИСТ РЕГИСТРАЦИИ ИЗМЕНЕНИЙ}
+\addcontentsline{toc}{section}{\protect\numberline{}ЛИСТ РЕГИСТРАЦИИ ИЗМЕНЕНИЙ}
+
+\begin{tabularx}{1.0\textwidth}{| X | X | X | X | X | X | X | X | X | X |} \hline
+\multicolumn{5}{| c |}{Номера листов (страниц)} & \quad & \quad & \quad & \quad & \quad \\ \cline{1-5}
+\spheading{Изм} & \spheading{измененных} & \spheading{замененных} & \spheading{новых} & \spheading{аннулированных} & \spheading{Всего листов (страниц) в докум} & \spheading{№ документа} & \spheading{Входящий № сопроводительного документа и дата} & \spheading{Подп.} & \spheading{Дата} \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad & \qquad \\ \hline
+\end{tabularx}

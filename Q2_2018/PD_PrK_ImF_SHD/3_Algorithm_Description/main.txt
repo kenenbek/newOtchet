@@ -1,0 +1,4 @@
+\input{Q2_2018/PD_PrK_ImF_SHD/3_Algorithm_Description/title.txt}
+\newpage
+\tableofcontents
+\newpage
